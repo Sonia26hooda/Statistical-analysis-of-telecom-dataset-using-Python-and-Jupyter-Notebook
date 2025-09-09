@@ -1,0 +1,2 @@
+# Statistical-analysis-of-telecom-dataset-using-Python-and-Jupyter-Notebook
+A statistical case study on the telecom industry dataset using Python and Jupyter Notebook. Project explores mobile phone specifications and prices through descriptive statistics, data visualization, and applied statistical techniques to uncover insights into features like memory, screen size, resolution, battery power, and connectivity options.
